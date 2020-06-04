@@ -13,7 +13,7 @@ import (
 	"github.com/natefinch/lumberjack"
 	"github.com/sirupsen/logrus"
 
-	"github.com/Roverr/hotstreak"
+	"github.com/panjjo/hotstreak"
 )
 
 // IStream is almost like icecream, that's why it is perfect
